@@ -22,7 +22,7 @@ int main(void)
 			putchar(a + '0');
 			putchar(b + '0');
 
-			if ( a < 8)
+			if (a < 8)
 			{
 
 				putchar(',');
@@ -30,7 +30,7 @@ int main(void)
 			}	
 		}
 	}
-	
+
 	putchar('\n');
 
 	return (0);
