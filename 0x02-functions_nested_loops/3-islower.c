@@ -4,6 +4,8 @@
  * _islower - Returns 1 if lower case alphabet,
  * else returns 0 otherwise
  *
+ * @c: character code in ASCII
+ *
  * Return: Always 0 (success)
  */
 int _islower(int c)
