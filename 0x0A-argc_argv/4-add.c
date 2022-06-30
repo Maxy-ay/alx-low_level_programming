@@ -29,7 +29,6 @@ int num_checker(char *a)
 	}
 	return (num);
 }
-
 /**
  *
  * main - add positive numbers
