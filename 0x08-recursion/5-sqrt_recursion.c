@@ -27,7 +27,6 @@ int sqtRecursive(int start, int end, int m)
 }
 
 /**
- *
  * _sqrt_recursion - finds the natural square root of a number
  * @n: given number
  * Return: square root of n or -1
