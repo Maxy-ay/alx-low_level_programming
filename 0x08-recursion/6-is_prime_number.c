@@ -10,7 +10,7 @@
 int sqtRecursive(int n, int m)
 {
 	if (n <= 0)
-		return (-1)
+		return (-1);
 	if (n * n == m)
 		return (n);
 	return (sqtRecursive(n - 1, m));
@@ -35,7 +35,6 @@ int _sqrt_recursion(int n)
  * Return: 1 if number is prime else 0
  **/
 int is_prime_number(int n)
-
 {
 	if (n <= 1 || _sqrt_recursion(n) >= 1)
 		return (0);
