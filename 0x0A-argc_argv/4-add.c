@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 #include <stdlib.h>
-
 #include <string.h>
 
 /**
@@ -30,7 +28,6 @@ int num_checker(char *a)
 	return (num);
 }
 /**
- *
  * main - add positive numbers
  * @argc: argument count
  * @argv: array of pointers to arguement strings
